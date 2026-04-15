@@ -13,7 +13,7 @@ Contents:
   aptupgradescript
 
 Artefact: aptupgrade.tar.zst
-SHA256:   6f33c04e21b86edf246133dda224938e038fdd094f90ebc8fc801ff0d68affdd
+SHA256:   73165044d32dce7171f9b79c496f28c204d600d8f4202cc8aa459157fd9f2872
 
 ```
 
